@@ -1,4 +1,4 @@
-# LAMDING PAGE - RESOLUTIONS 2024
+# LANDING PAGE - RESOLUTIONS 2024
 
 Proyecto elaborado en HTML, CSS y Bootstrap 5, como practica en la creación de páginas web.
 Se utiliza la guía de la youtube Irina Delgado
